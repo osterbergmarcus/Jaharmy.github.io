@@ -64,7 +64,7 @@ p {
 }
 .header {
   height: 530px;
-  background-image: url('../images/camera-man-blue.jpg');
+  background-image: url('../images/Background.jpg');
   background-size: cover;
   background-attachment: fixed;
   box-shadow: black 0px 3px 0px 0px inset;
@@ -194,4 +194,3 @@ p {
 }
 @media (max-width: 479px) {
 }
-

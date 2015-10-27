@@ -67,7 +67,7 @@ p {
   background-image: url('../images/Background.jpg');
   background-size: cover;
   background-attachment: fixed;
-  box-shadow: black 0px 3px 0px 0px inset;
+  box-shadow: black 0px 0px 0px 0px inset;
 }
 .header.sub-page {
   background-image: url('../images/profile-dude-blue.jpg');
